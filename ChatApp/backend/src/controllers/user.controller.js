@@ -48,7 +48,7 @@ const Loginuser= AsyncHandler(async(req,res)=>{
     if (!isvalidpassword) {
         throw new ApiError(401,"Invalid credentials")
     }
-    const {accessToken, refreshToken}=await generateAccessAndRefereshTokens(user._id)
+    const {accessToken, refreshToken}=await generateAccessAndRefereshTokens({user._id})
     const loggedIn=await User.findById(user._id).select("-password -refreshToken")
     const options={
         httpOnly:true,

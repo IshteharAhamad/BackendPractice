@@ -1,0 +1,358 @@
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+
+Identify defects: The team first identifies defects reported from testing or user feedback.
+Classify defects: Classify defects based on severity (critical, major, minor) and priority (high, medium, low).
+Discuss the impact: Analyze the impact of each defect on the application, and determine whether fixing it is urgent or can wait.
+Assign resources: Assign developers or teams to work on high-priority defects.
+Make decisions: Triage meetings end with action items for defects, such as fixing them immediately, deferring them to the next sprint/release, or closing them.
+raw
