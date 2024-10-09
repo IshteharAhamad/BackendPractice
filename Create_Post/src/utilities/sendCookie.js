@@ -6,7 +6,7 @@ const cookieToken= async (user,res) =>{
         httpOnly: true,
     }
     user.password=undefined
-    res.status(201).cookie("token",token,options).json({
+    res.cookie("token",token,options).json({
         success:true,
         data:user,
         token,

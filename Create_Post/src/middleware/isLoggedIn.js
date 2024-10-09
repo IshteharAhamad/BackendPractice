@@ -15,6 +15,7 @@ const verifyToken=async(req,res,next)=>{
                 id:decodeToken.userId
             }
         })
+        // console.log(user)
         req.user=user
         next()
         
